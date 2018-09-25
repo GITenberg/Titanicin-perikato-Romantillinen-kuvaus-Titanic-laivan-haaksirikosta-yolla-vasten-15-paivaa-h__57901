@@ -1,11 +1,16 @@
 _repo: Titanicin-perikato-Romantillinen-kuvaus-Titanic-laivan-haaksirikosta-yolla-vasten-15-paivaa-h__57901
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Virtala, Esko
     gutenberg_agent_id: '49677'
     url: http://www.gutenberg.org/2009/agents/49677
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57901#Titanicin-perikato-Romantillinen-kuvaus-Titanic-laivan-haaksirikosta-yolla-vasten-15-paivaa-h_
 gutenberg_issued: '2018-09-14'
 gutenberg_type: Text
 identifiers:
